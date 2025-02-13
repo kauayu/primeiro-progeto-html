@@ -3,6 +3,12 @@ body{
 }
 
  .titulo{
-.aguia{
+front-size: 40px;
+color: red;
+    width: 50%;
+}
+A-aguia-1.jpg{
+    width: 20%;
+    border: 10px;
     width: 50%;
 }
